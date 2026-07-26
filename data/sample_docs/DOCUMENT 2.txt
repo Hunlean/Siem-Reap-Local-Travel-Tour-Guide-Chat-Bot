@@ -1,0 +1,11 @@
+--- DOCUMENT 2 START ---
+ID: sr_doc_02
+Name (EN): Bayon Temple
+Name (KM): ប្រាសាទបាយ័ន
+Category: Historical Site
+Latitude: 13.4413
+Longitude: 103.8587
+
+Description:
+Located in the center of Angkor Thom, this state temple of Jayavarman VII is instantly recognizable by its multitude of serene, smiling stone faces towering over the complex. The bas-reliefs on the outer gallery depict everyday life and historical battles of the Khmer Empire.
+--- DOCUMENT 2 END ---

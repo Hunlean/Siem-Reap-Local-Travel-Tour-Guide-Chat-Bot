@@ -1,0 +1,11 @@
+--- DOCUMENT 14 START ---
+ID: sr_doc_14
+Name (EN): Kampong Phluk
+Name (KM): កំពង់ភ្លុក
+Category: Local Village
+Latitude: 13.2081
+Longitude: 103.9749
+
+Description:
+A cluster of three villages of stilted houses built within the floodplain of the Tonle Sap. The houses rise up to 10 meters in the air. During the wet season, the village appears to float, while the dry season reveals the towering stilts. It features a unique flooded mangrove forest.
+--- DOCUMENT 14 END ---

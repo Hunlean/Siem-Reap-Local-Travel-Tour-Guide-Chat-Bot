@@ -1,0 +1,11 @@
+--- DOCUMENT 18 START ---
+ID: sr_doc_18
+Name (EN): Angkor National Museum
+Name (KM): សារមន្ទីរជាតិអង្គរ
+Category: Museum
+Latitude: 13.3667
+Longitude: 103.8601
+
+Description:
+An archaeological museum dedicated to the collection, preservation, and presentation of Angkorian artifacts. It provides excellent historical context before visiting the temples, featuring multimedia presentations, thousands of Buddha statues, and ancient steles.
+--- DOCUMENT 18 END ---

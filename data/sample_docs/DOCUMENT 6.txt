@@ -1,0 +1,11 @@
+--- DOCUMENT 6 START ---
+ID: sr_doc_06
+Name (EN): Angkor Thom
+Name (KM): អង្គរធំ
+Category: Ancient City
+Latitude: 13.4456
+Longitude: 103.859
+
+Description:
+The last and most enduring capital city of the Khmer empire. It is a massive walled and moated enclosure containing several major monuments, including the Bayon, the Baphuon, the Terrace of the Elephants, and the Terrace of the Leper King, entered through monumental stone gates.
+--- DOCUMENT 6 END ---

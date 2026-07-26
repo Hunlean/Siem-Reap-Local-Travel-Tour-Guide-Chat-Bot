@@ -1,0 +1,11 @@
+--- DOCUMENT 24 START ---
+ID: sr_doc_24
+Name (EN): Pre Rup
+Name (KM): ប្រាសាទប្រែរូប
+Category: Historical Site
+Latitude: 13.435
+Longitude: 103.9202
+
+Description:
+A vast, visually striking temple mountain constructed of laterite and brick. The warm tones of the materials look particularly stunning in the late afternoon light. Its high central platform offers expansive, sweeping views over the surrounding rice paddies and jungle.
+--- DOCUMENT 24 END ---

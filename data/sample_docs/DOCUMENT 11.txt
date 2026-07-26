@@ -1,0 +1,11 @@
+--- DOCUMENT 11 START ---
+ID: sr_doc_11
+Name (EN): Angkor Night Market
+Name (KM): ផ្សាររាត្រីអង្គរ
+Category: Shopping
+Latitude: 13.3562
+Longitude: 103.8531
+
+Description:
+The original night market in Siem Reap, featuring over 200 bamboo huts selling traditional handicrafts, silk paintings, clothing, and souvenirs. It also houses several massage parlors and small bars, providing a relaxed shopping environment after a day of temple exploration.
+--- DOCUMENT 11 END ---

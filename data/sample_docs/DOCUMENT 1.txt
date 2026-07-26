@@ -1,0 +1,11 @@
+--- DOCUMENT 1 START ---
+ID: sr_doc_01
+Name (EN): Angkor Wat
+Name (KM): អង្គរវត្ត
+Category: Historical Site
+Latitude: 13.4125
+Longitude: 103.867
+
+Description:
+The largest religious monument in the world and the crown jewel of Khmer architecture. Built in the 12th century by King Suryavarman II, it is famous for its massive scale, extensive bas-reliefs depicting Hindu epics, and alignment with the spring equinox. It transitions from a Hindu to a Buddhist temple over its history.
+--- DOCUMENT 1 END ---

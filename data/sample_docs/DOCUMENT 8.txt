@@ -1,0 +1,11 @@
+--- DOCUMENT 8 START ---
+ID: sr_doc_08
+Name (EN): West Baray
+Name (KM): បារាយណ៍ខាងលិច
+Category: Hidden Gem / Nature
+Latitude: 13.4333
+Longitude: 103.8
+
+Description:
+An immense rectangular artificial lake (baray) constructed in the 11th century. Measuring 8km by 2.2km, it is a testament to the advanced hydrology engineering of the Khmer Empire. Today, it is a quiet spot for locals to swim, relax on hammocks, and watch the sunset.
+--- DOCUMENT 8 END ---

@@ -1,0 +1,11 @@
+--- DOCUMENT 19 START ---
+ID: sr_doc_19
+Name (EN): Phsar Chas (Old Market)
+Name (KM): ផ្សារចាស់
+Category: Shopping / Local Market
+Latitude: 13.3533
+Longitude: 103.8561
+
+Description:
+The oldest traditional market in Siem Reap. The outer sections cater largely to tourists with souvenirs and clothing, while the inner core is an authentic, bustling local wet market selling fresh meat, seafood, spices, and operating numerous cheap, delicious food stalls.
+--- DOCUMENT 19 END ---

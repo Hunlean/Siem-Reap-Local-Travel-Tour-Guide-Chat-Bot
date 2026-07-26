@@ -1,0 +1,11 @@
+--- DOCUMENT 17 START ---
+ID: sr_doc_17
+Name (EN): Theam's Gallery
+Name (KM): វិចិត្រសាល ធៀម
+Category: Art / Hidden Gem
+Latitude: 13.3745
+Longitude: 103.8665
+
+Description:
+The private home and gallery of Lim Muy Theam, a Cambodian artist. Hidden behind unassuming walls, the compound is a lush oasis of pavilions, water features, and workshops where visitors can see local artisans creating lacquerware, painting, and sculpting.
+--- DOCUMENT 17 END ---

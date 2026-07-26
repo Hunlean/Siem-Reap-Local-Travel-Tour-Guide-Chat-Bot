@@ -1,0 +1,19 @@
+--- INFO DOCUMENT 3 START ---
+File Reference: sr_info_03_currency_money.txt
+Title: Currency, Cash, and Payments in Cambodia
+
+Topic: Money Guide (USD, Khmer Riel, and Digital Payments)
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Cambodia operates on a dual-currency system, though local digital payment systems have recently dominated.
+1. Dual Currencies: Both the US Dollar (USD) and the Cambodian Riel (KHR) are accepted everywhere. The exchange rate is generally pegged at 1 USD = 4,000 KHR. 
+2. Change in Riel: If you pay in USD, any change under $1 USD will be returned to you in Khmer Riel. For example, if you are owed $0.50, you will receive 2,000 KHR.
+3. Strict USD Quality Rules: Physical US dollar bills must be in pristine condition. Even a tiny tear, fold, pen mark, or heavy wear can result in the bill being rejected by local shops, restaurants, and hotels. Ensure your USD bills are crisp and clean.
+4. Bakong & KHQR: Cambodia has a highly advanced national digital payment network called Bakong. Most merchants—from high-end hotels to street food stalls—display a 'KHQR' code. Tourists can set up local e-wallets or use linked international apps to scan and pay instantly.
+5. ATMs: ATMs are widely available in Siem Reap city center, dispensing both USD and KHR. Be aware of local ATM withdrawal fees, which usually range from $4 to $6 per transaction.
+
+Khmer Translation / Summary:
+ការប្រើប្រាស់រូបិយប័ណ្ណ និងការទូទាត់ប្រាក់៖
+ប្រទេសកម្ពុជាប្រើប្រាស់ទាំងប្រាក់ដុល្លារអាមេរិក (USD) និងប្រាក់រៀលខ្មែរ (KHR) ក្នុងអត្រាប្រហាក់ប្រហែល ១ដុល្លារ = ៤,០០០រៀល។ ក្រដាសប្រាក់ដុល្លារត្រូវតែថ្មី និងគ្មានការរហែកឡើយ។ បច្ចុប្បន្ន ការទូទាត់តាមប្រព័ន្ធឌីជីថល (KHQR/បាគង) មានការពេញនិយមយ៉ាងខ្លាំងនៅគ្រប់ទីកន្លែង។
+--- INFO DOCUMENT 3 END ---

@@ -1,0 +1,63 @@
+--- INFO DOCUMENT 8 START ---
+File Reference: sr_info_08_angkor_pass.txt
+Title: The Angkor Pass: Ticket Prices and Buying Guide
+
+Topic: Ticket Options for the Angkor Archaeological Park
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+To enter any of the ancient temples within the Angkor Archaeological Park (except Phnom Kulen and Beng Mealea, which require separate tickets), you must purchase an official Angkor Pass.
+1. Ticket Types & Prices:
+   - 1-Day Pass: $37 USD (Valid only on the day of purchase).
+   - 3-Day Pass: $62 USD (Valid for any 3 days within a 10-day period from the purchase date). Highly recommended for a complete experience.
+   - 7-Day Pass: $72 USD (Valid for any 7 days within a 1-month period). Best for history buffs and photographers.
+2. Official Buying Location: Tickets must be bought at the official Angkor Ticket Center (Angkor Enterprise) located on Road 60. They are open daily from 4:30 AM to 5:30 AM. Tickets can also be purchased online through the official Angkor Enterprise portal.
+3. Opening Hours: Most temples are open from 7:30 AM to 5:30 PM. However, Angkor Wat and Srah Srang open at 5:00 AM for sunrise viewing. Phnom Bakheng and Pre Rup open at 5:00 AM for both sunrise and sunset.
+4. Important Rules: Your ticket will be physically checked at checkpoints and at the entrance of every individual temple. Keep your ticket safe; losing it results in a hefty fine.
+
+Khmer Translation / Summary:
+ព័ត៌មានអំពីសំបុត្រចូលទស្សនាអង្គរ (Angkor Pass)៖
+សំបុត្រមាន ៣ ប្រភេទ៖ ១ថ្ងៃ (៣៧ដុល្លារ) ៣ថ្ងៃ (៦២ដុល្លារ) និង ៧ថ្ងៃ (៧២ដុល្លារ)។ ត្រូវទិញនៅបញ្ជរលក់សំបុត្រផ្លូវការរបស់គ្រឹះស្ថានអង្គរ (ផ្លូវ៦០) ឬទិញតាមអនឡាញ។ ត្រូវរក្សាសំបុត្រជាប់ខ្លួនជានិច្ចពេលទស្សនាប្រាសាទ។
+--- INFO DOCUMENT 8 END ---
+
+--- INFO DOCUMENT 9 START ---
+File Reference: sr_info_09_dining_etiquette.txt
+Title: Cambodian Dining Customs and Food Safety
+
+Topic: Eating Traditions, Food Culture, and Hygiene Tips
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Exploring the rich flavors of Khmer cuisine is a highlight of Siem Reap. Here are key dining customs and hygiene tips:
+1. Dining Style: Cambodian meals are typically served family-style. Multiple dishes (a soup, a stir-fry, a fish/meat dish, and fresh vegetables) are placed in the center of the table, and everyone shares, placing small portions onto their individual plate of jasmine rice.
+2. Utensils: A spoon and fork are the most common utensils. Hold the spoon in your right hand to eat, and use the fork in your left hand to push food onto the spoon. Chopsticks are generally reserved for noodle dishes.
+3. Food Safety & Hygiene: 
+   - Drink bottled, sealed water. Avoid drinking tap water.
+   - Ice in tourist restaurants and established cafes is generally safe as it is made from purified commercial ice plants.
+   - When eating street food, choose busy stalls with a high turnover of local customers, ensuring the food is freshly cooked and piping hot.
+4. Tipping: Tipping is not mandatory in local Cambodian eateries, but it is highly appreciated in tourist restaurants, spas, and by tour guides/drivers. Even a small tip ($1 to $2) goes a long way.
+
+Khmer Translation / Summary:
+ទំនៀមទម្លាប់នៃការទទួលទានអាហារ និងអនាម័យ៖
+ការទទួលទានអាហារជាលក្ខណៈគ្រួសារដោយចែករំលែកមុខម្ហូបគ្នាទៅវិញទៅមក។ គួរប្រើប្រាស់ស្លាបព្រានៅដៃស្តាំ និងសមនៅដៃឆ្វេង។ ដើម្បីសុវត្ថិភាព សំរាប់ភ្ញៀវទេសចរគួរទទួលទានទឹកដប និងជ្រើសរើសហាងអាហារដែលមានអនាម័យល្អ។ ការជូនប្រាក់ឧបត្ថម្ភ (Tip) មិនមែនជាកាតព្វកិច្ចឡើយ ប៉ុន្តែវាជាការបង្ហាញទឹកចិត្តដ៏ល្អ។
+--- INFO DOCUMENT 9 END ---
+
+--- INFO DOCUMENT 10 START ---
+File Reference: sr_info_10_safety_scams.txt
+Title: Staying Safe and Avoiding Common Scams
+
+Topic: Safety Tips and Tourist Awareness in Siem Reap
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Siem Reap is generally a highly safe, welcoming, and hospitable city for global tourists. However, remaining vigilant helps prevent minor issues:
+1. Bag Snatching: While violent crime is extremely rare, opportunistic bag snatching by passing motorcyclists can occur. Hold your bags, phones, and cameras tightly, especially when riding in open-air Tuk-Tuks or walking along dark roads at night.
+2. The 'Milk Powder' Scam: A scammer (often carrying a baby) approaches tourists asking them to buy expensive baby formula from a nearby mini-mart. Once the tourist leaves, the scammer returns the milk to the shopkeeper and splits the cash refund. 
+3. Tuk-Tuk Commision Scams: Some drivers might insist on taking you to a specific restaurant, souvenir shop, or gemstone dealer, claiming your requested venue is closed. This is usually to earn commissions. Politely insist on going to your original destination.
+4. Stroller/Child Vendors: You will encounter adorable children selling souvenirs, post-cards, or bracelets outside temples. While heartbreaking, NGOs strongly advise against purchasing from them or giving them money, as this keeps them out of school and perpetuates the cycle of child labor exploitations.
+5. Stray Animals: Avoid petting stray dogs or cats around pagodas and temples to eliminate any risk of rabies.
+
+Khmer Translation / Summary:
+ការរក្សាសុវត្ថិភាព និងការបង្ការការបោកប្រាស់៖
+ខេត្តសៀមរាបជាក្រុងដែលមានសុវត្ថិភាពខ្ពស់។ ទោះជាយ៉ាងណាក៏ដោយ ត្រូវប្រុងប្រយ័ត្នចំពោះការឆក់កាបូប/ទូរស័ព្ទពេលជិះកង់បី។ ជៀសវាងការទិញទំនិញពីក្មេងៗលក់ដូរនៅតាមប្រាសាទតាមការណែនាំរបស់អង្គការក្រៅរដ្ឋាភិបាល ដើម្បីជំរុញឱ្យពួកគេទៅសាលារៀន។
+--- INFO DOCUMENT 10 END ---

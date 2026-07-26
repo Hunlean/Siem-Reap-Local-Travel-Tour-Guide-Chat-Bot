@@ -1,0 +1,11 @@
+--- DOCUMENT 9 START ---
+ID: sr_doc_09
+Name (EN): Road 60 Street Food Market
+Name (KM): ផ្សារម្ហូបអាហារផ្លូវ៦០
+Category: Street Food
+Latitude: 13.3768
+Longitude: 103.8732
+
+Description:
+A lively local evening market that stretches along Road 60. It is a fantastic place to sample authentic Cambodian street food, including grilled chicken, stuffed frogs, traditional sweets, and an array of edible insects. It operates in the late afternoon and evening.
+--- DOCUMENT 9 END ---

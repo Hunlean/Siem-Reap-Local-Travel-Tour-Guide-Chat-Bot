@@ -1,0 +1,11 @@
+--- DOCUMENT 22 START ---
+ID: sr_doc_22
+Name (EN): Ta Som
+Name (KM): ប្រាសាទតាសោម
+Category: Historical Site
+Latitude: 13.4645
+Longitude: 103.9051
+
+Description:
+A small, quiet temple located at the eastern end of the Northern Baray. It is most famous for the massive, ancient strangler fig tree completely overwhelming its eastern gopura (gateway), making for an incredibly dramatic and photogenic scene without the heavy crowds.
+--- DOCUMENT 22 END ---

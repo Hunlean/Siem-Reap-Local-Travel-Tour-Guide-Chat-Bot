@@ -1,0 +1,11 @@
+--- DOCUMENT 4 START ---
+ID: sr_doc_04
+Name (EN): Banteay Srei
+Name (KM): ប្រាសាទបន្ទាយស្រី
+Category: Historical Site
+Latitude: 13.5987
+Longitude: 103.9632
+
+Description:
+A 10th-century Cambodian temple dedicated to the Hindu god Shiva. Located somewhat north of the main Angkor group, it is built largely of pinkish sandstone which can be carved like wood, resulting in some of the most intricate, three-dimensional wall carvings in the region.
+--- DOCUMENT 4 END ---

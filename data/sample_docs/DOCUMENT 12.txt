@@ -1,0 +1,11 @@
+--- DOCUMENT 12 START ---
+ID: sr_doc_12
+Name (EN): Wat Damnak
+Name (KM): វត្តដምናក់
+Category: Culture / Religious
+Latitude: 13.3541
+Longitude: 103.8588
+
+Description:
+The largest pagoda in Siem Reap and formerly a royal palace. Today, it is a thriving center of Buddhist learning and houses the Center for Khmer Studies, which operates an extensive library open to the public. The surrounding streets are famous for local street food vendors.
+--- DOCUMENT 12 END ---

@@ -1,0 +1,20 @@
+--- INFO DOCUMENT 1 START ---
+File Reference: sr_info_01_temple_etiquette.txt
+Title: Temple Etiquette and Dress Code at Angkor
+
+Topic: Angkor Temple Dress Code and Etiquette
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+When visiting the sacred temples of the Angkor Archaeological Park, visitors must strictly respect local religious customs. 
+1. Dress Code: Both men and women must cover their shoulders and knees. Sleeveless shirts, tank tops, revealing necklines, and short shorts/skirts are strictly forbidden. You cannot simply cover shoulders with a scarf; actual shirts with sleeves are required.
+2. Sacred Behavior: Do not touch, sit on, or lean against ancient carvings or fragile sandstone structures. 
+3. Respecting Monks: Monks are highly revered in Cambodia. If you wish to take a photo with a monk, always ask for permission first. Women are strictly forbidden from touching monks or their robes.
+4. Noise Levels: Keep voices down. Temples are active places of worship for local Buddhists.
+5. Smoking & Littering: Smoking is strictly prohibited throughout the entire archaeological park. Please dispose of all trash in designated bins to keep the UNESCO world heritage site clean.
+
+Khmer Translation / Summary:
+សេចក្តីណែនាំអំពីរបៀបរៀបរយក្នុងការទស្សនាប្រាសាទ៖
+១. ការស្លៀកពាក់៖ ត្រូវស្លៀកពាក់ឱ្យបានសមរម្យ ដោយបិទបាំងស្មា និងជង្គង់ (មិនអនុញ្ញាតឱ្យពាក់អាវវាលក្លៀក ឬខោខ្លីលើជង្គង់ឡើយ)។
+២. ការគោរព៖ ហាមប៉ះពាល់ ឬអង្គុយលើថ្មប្រាសាទបុរាណ។ ស្រ្តីភេទមិនត្រូវប៉ះពាល់ព្រះសង្ឃឡើយ។ រក្សាភាពស្ងប់ស្ងាត់ និងមិនត្រូវជក់បារី ឬចោលសំរាមពាសវាលពាសកាលឡើយ។
+--- INFO DOCUMENT 1 END ---

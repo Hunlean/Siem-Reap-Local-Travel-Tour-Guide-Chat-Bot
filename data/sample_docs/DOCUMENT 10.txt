@@ -1,0 +1,11 @@
+--- DOCUMENT 10 START ---
+ID: sr_doc_10
+Name (EN): Pub Street
+Name (KM): ផាប់ស្ទ្រីត
+Category: Nightlife / Dining
+Latitude: 13.3551
+Longitude: 103.855
+
+Description:
+The center of Siem Reap's nightlife and tourist dining scene. Blocked off to traffic in the evenings, the street is packed with neon-lit bars, restaurants serving both local and international cuisine, night markets, and street performers.
+--- DOCUMENT 10 END ---

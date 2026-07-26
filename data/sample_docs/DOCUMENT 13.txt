@@ -1,0 +1,11 @@
+--- DOCUMENT 13 START ---
+ID: sr_doc_13
+Name (EN): Tonle Sap Lake
+Name (KM): បឹងទន្លេសាប
+Category: Nature / Local Village
+Latitude: 12.9833
+Longitude: 103.8333
+
+Description:
+The largest freshwater lake in Southeast Asia and an ecological hotspot. Its size fluctuates dramatically with the seasons. It is famous for its stilted and floating villages, where entirely community lives on the water, relying on the lake's abundant fisheries.
+--- DOCUMENT 13 END ---

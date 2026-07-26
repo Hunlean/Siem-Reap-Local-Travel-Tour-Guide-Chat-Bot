@@ -1,0 +1,21 @@
+--- INFO DOCUMENT 7 START ---
+File Reference: sr_info_07_sim_cards_internet.txt
+Title: SIM Cards, Mobile Networks, and Internet Access
+
+Topic: Getting Connected: Local SIM Cards and Mobile Operators
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Staying connected in Siem Reap is cheap and straightforward. 
+1. Key Mobile Network Operators:
+   - Smart Axiata: Excellent coverage in Siem Reap city center, fast 4G/LTE speeds, and highly affordable tourist packages.
+   - Cellcard: One of the oldest operators with solid coverage, especially in rural areas.
+   - Metfone: Widely praised for having the strongest coverage in remote temple areas deep within the archaeological park.
+2. Getting a Tourist SIM: You can purchase a tourist SIM card directly at the Siem Reap-Angkor International Airport (SAI) arrival terminal or at official brand stores in town. A passport is strictly required by law to register any local SIM card.
+3. Pricing: A standard tourist package costs between $5 and $10 USD, yielding 10GB to 40GB of high-speed 4G data valid for 7 to 30 days.
+4. Public Wi-Fi: Almost all cafes, restaurants, hotels, and guesthouses in Siem Reap provide free, reasonably fast Wi-Fi for guests.
+
+Khmer Translation / Summary:
+ការប្រើប្រាស់ប្រព័ន្ធអ៊ីនធឺណិត និងស៊ីមកាត៖
+ក្រុមហ៊ុនទូរស័ព្ទចល័តឈានមុខគេមានដូចជា Smart, Cellcard, និង Metfone។ ភ្ញៀវទេសចរអាចទិញស៊ីមកាតនៅព្រលានយន្តហោះ ឬហាងផ្លូវការ ដោយគ្រាន់តែបង្ហាញលិខិតឆ្លងដែន (Passport)។ កញ្ចប់សេវាកម្មមានតម្លៃចន្លោះពី ៥ ទៅ ១០ដុល្លារអាមេរិក។
+--- INFO DOCUMENT 7 END ---

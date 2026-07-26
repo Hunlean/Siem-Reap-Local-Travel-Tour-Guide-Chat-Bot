@@ -1,0 +1,11 @@
+--- DOCUMENT 25 START ---
+ID: sr_doc_25
+Name (EN): Phare, The Cambodian Circus
+Name (KM): ហ្វារ (សៀកកម្ពុជា)
+Category: Culture / Entertainment
+Latitude: 13.3516
+Longitude: 103.8436
+
+Description:
+More than just a circus, Phare utilizes modern theater, music, dance, and breathtaking acrobatics to tell uniquely Cambodian stories—historical, folk, and modern. It is an energetic, highly acclaimed social enterprise that funds education for disadvantaged youth.
+--- DOCUMENT 25 END ---

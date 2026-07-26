@@ -1,0 +1,19 @@
+--- INFO DOCUMENT 2 START ---
+File Reference: sr_info_02_transportation.txt
+Title: Local Transportation Guide in Siem Reap
+
+Topic: Getting Around Siem Reap (Tuk-Tuks, PassApp, Grab)
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Navigating Siem Reap is highly convenient with multiple local transportation options:
+1. Traditional Remorque (Tuk-Tuk): A carriage pulled by a motorcycle. It is open-air, seats up to 4 people comfortably, and is perfect for scenic temple tours. Negotiate the price before boarding (typically $15–$25 for a full-day temple tour).
+2. Auto-Rickshaws (Indian Tuk-Tuks): Smaller, three-wheeled vehicles running on LPG. They are cheaper and faster for short city hops.
+3. Ride-Hailing Apps: 'PassApp' and 'Grab' are widely used in Siem Reap. Booking through these apps ensures transparent, fixed pricing and removes the need to negotiate fares. It supports both auto-rickshaws and standard cars.
+4. Bicycle & E-Bike Rentals: Many guesthouses rent bicycles for $2–$5 per day. E-bikes are also available and offer a green, quiet way to explore the archaeological park.
+5. Private Taxis: For farther destinations like Banteay Srei or Phnom Kulen, hiring a private air-conditioned car or SUV is highly recommended ($30–$50 per day).
+
+Khmer Translation / Summary:
+មធ្យោបាយធ្វើដំណើរនៅក្នុងខេត្តសៀមរាប៖
+ការធ្វើដំណើរមានភាពងាយស្រួលតាមរយៈ រឺម៉កកង់បី (Tuk-Tuk) កង់បីឥណ្ឌា ឬការប្រើប្រាស់កម្មវិធីទូរស័ព្ទដូចជា PassApp និង Grab ដើម្បីទទួលបានតម្លៃច្បាស់លាស់។ សម្រាប់ការធ្វើដំណើរទៅកាន់តំបន់ឆ្ងាយៗដូចជា ភ្នំគូលែន ការជួលរថយន្តឯកជនគឺជាជម្រើសដ៏ល្អបំផុត។
+--- INFO DOCUMENT 2 END ---

@@ -1,0 +1,11 @@
+--- DOCUMENT 7 START ---
+ID: sr_doc_07
+Name (EN): Phnom Bakheng
+Name (KM): ប្រាសាទភ្នំបាខែង
+Category: Historical Site
+Latitude: 13.4239
+Longitude: 103.856
+
+Description:
+A Hindu and Buddhist temple in the form of a temple mountain. Built at the end of the 9th century, it is situated on a hill and is one of the most popular spots in Siem Reap for viewing the sunset over Angkor Wat and the surrounding forested plains.
+--- DOCUMENT 7 END ---

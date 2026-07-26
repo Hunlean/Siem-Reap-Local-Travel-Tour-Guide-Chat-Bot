@@ -1,0 +1,11 @@
+--- DOCUMENT 3 START ---
+ID: sr_doc_03
+Name (EN): Ta Prohm
+Name (KM): ប្រាសាទតាព្រហ្ម
+Category: Historical Site
+Latitude: 13.4347
+Longitude: 103.8892
+
+Description:
+Famous for the massive silk-cotton and strangler fig trees entwined with its ruins. Left largely in the state it was discovered, this temple provides a highly atmospheric, romantic experience of nature reclaiming human architecture. Often recognized from its appearance in the Tomb Raider film.
+--- DOCUMENT 3 END ---

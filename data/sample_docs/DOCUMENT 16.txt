@@ -1,0 +1,11 @@
+--- DOCUMENT 16 START ---
+ID: sr_doc_16
+Name (EN): APOPO Visitor Center
+Name (KM): មជ្ឈមណ្ឌលអ្នកទស្សនា អាប៉ូប៉ូ
+Category: Museum / NGO
+Latitude: 13.3653
+Longitude: 103.8741
+
+Description:
+An educational facility detailing the impact of landmines in Cambodia. It showcases the work of APOPO's 'HeroRATs'—African giant pouched rats trained to sniff out landmines safely and efficiently. Visitors can watch live demonstrations of the rats at work.
+--- DOCUMENT 16 END ---

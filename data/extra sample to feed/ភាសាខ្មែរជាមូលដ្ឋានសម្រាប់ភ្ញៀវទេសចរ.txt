@@ -1,0 +1,49 @@
+--- INFO DOCUMENT 5 START ---
+File Reference: sr_info_05_khmer_phrases.txt
+Title: Essential Khmer Phrases for Travelers
+
+Topic: Useful Khmer Vocabulary and Greetings
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Speaking a few words of Khmer goes a long way in building rapport with locals in Siem Reap.
+1. Hello: "Choum Reap Sour" (ជំរាបសួរ) - Formal / respectful greeting, accompanied by the 'Sampeah' (placing hands together in a prayer-like gesture at chest level).
+2. Hello (Casual): "Sues Dei" (សួស្តី) - Used among friends or peers.
+3. Thank You: "Arkun" (អរគុណ) - To express deep gratitude, say "Arkun Chran" (អរគុណច្រើន - Thank you very much).
+4. How much is this?: "Tlai Bonman?" (ថ្លៃប៉ុន្មាន?) - Essential for shopping in local markets.
+5. Too expensive!: "Tlai Nas!" (ថ្លៃណាស់!) - Used playfully during friendly bargaining.
+6. Can you discount?: "Chos Tlai Ban Te?" (ចុះថ្លៃបានទេ?)
+7. Goodbye: "Choum Reap Lea" (ជម្រាបលា) - Formal goodbye.
+8. No spicy: "Ot Hal" (អត់ហិល) - Important when ordering food if you cannot tolerate spicy dishes.
+9. Delicious: "Chhnganh" (ឆ្ងាញ់) - Always appreciated by local chefs and food stall owners.
+10. Excuse me / Sorry: "Som Toh" (សុំទោស)
+
+Khmer Translation / Summary:
+ភាសាខ្មែរជាមូលដ្ឋានសម្រាប់ភ្ញៀវទេសចរ៖
+ការរៀនពាក្យគន្លឹះខ្លីៗដូចជា "ជំរាបសួរ" "អរគុណ" "ថ្លៃប៉ុន្មាន?" និង "សុំទោស" ជួយបង្កើនភាពជិតស្និទ្ធ និងការប្រាស្រ័យទាក់ទងយ៉ាងល្អជាមួយប្រជាជនក្នុងស្រុក។
+--- INFO DOCUMENT 5 END ---
+
+--- INFO DOCUMENT 6 START ---
+File Reference: sr_info_06_emergencies_medical.txt
+Title: Emergency Contacts and Hospitals in Siem Reap
+
+Topic: Emergency Numbers and Quality Healthcare Services
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+In case of unforeseen emergencies during your trip to Siem Reap, keep these contacts and medical facilities on hand:
+1. Primary Emergency Numbers:
+   - Police: 117
+   - Tourist Police (Siem Reap): (+855) 12 402 424 / (+855) 12 969 991
+   - Fire Department: 118
+   - Ambulance / Medical Emergency: 119
+2. Recommended Hospitals (International Standard):
+   - Royal Angkor International Hospital: Part of the Bangkok Hospital Group. Offers high-quality, 24/7 emergency medical services, English-speaking staff, and direct billing with major international travel insurances. Location: National Road 6. Contact: (+855) 63 761 888.
+   - Angkor Hospital for Children (AHC): A highly respected non-profit pediatric hospital. While it focuses on local children, it is a key landmark in town. Location: Oum Chhay Street.
+3. Pharmacies: Major reputable pharmacies like 'U-Care Pharmacy' are located around the Old Market and Pub Street areas, stocking reliable, non-counterfeit western medications.
+
+Khmer Translation / Summary:
+លេខទូរស័ព្ទអាសន្ន និងមន្ទីរពេទ្យក្នុងខេត្តសៀមរាប៖
+- ប៉ូលីស៖ ១១៧ | ឡានពេទ្យសង្គ្រោះបន្ទាន់៖ ១១៩
+- មន្ទីរពេទ្យអន្តរជាតិភូមិន្ទអង្គរ (Royal Angkor International Hospital)៖ ផ្តល់សេវាព្យាបាលស្តង់ដារអន្តរជាតិ ២៤ម៉ោងលើ២៤ម៉ោង។ សម្រាប់ឱសថស្ថានដែលមានទំនុកចិត្ត អាចស្វែងរក 'U-Care Pharmacy' នៅក្បែរផ្សារចាស់។
+--- INFO DOCUMENT 6 END ---

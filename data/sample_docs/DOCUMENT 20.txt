@@ -1,0 +1,11 @@
+--- DOCUMENT 20 START ---
+ID: sr_doc_20
+Name (EN): Kulen Elephant Forest
+Name (KM): ព្រៃដំរីគូលែន
+Category: Nature / Sanctuary
+Latitude: 13.5186
+Longitude: 104.0321
+
+Description:
+A sanctuary located in the foothills of Phnom Kulen offering a peaceful retirement for former riding elephants. Visitors can observe the elephants interacting naturally in the forest environment, feed them, and walk alongside them, promoting ethical wildlife tourism.
+--- DOCUMENT 20 END ---

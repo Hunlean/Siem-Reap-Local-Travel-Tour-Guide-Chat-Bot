@@ -1,0 +1,11 @@
+--- DOCUMENT 5 START ---
+ID: sr_doc_05
+Name (EN): Preah Khan
+Name (KM): ប្រាសាទព្រះខ័ន
+Category: Historical Site
+Latitude: 13.4619
+Longitude: 103.8718
+
+Description:
+A vast, flat temple complex built by Jayavarman VII to honor his father. It served as a city and a place of Buddhist and Hindu worship. The site features long, atmospheric corridors, excellent carvings, and less crowding than Ta Prohm, though it features similar encroaching vegetation.
+--- DOCUMENT 5 END ---

@@ -1,0 +1,18 @@
+--- INFO DOCUMENT 4 START ---
+File Reference: sr_info_04_weather_seasons.txt
+Title: Siem Reap Climate and Best Times to Visit
+
+Topic: Weather, Seasons, and Packing Tips
+Language Support: English & Khmer (ភាសាខ្មែរ)
+
+Description:
+Siem Reap has a tropical climate with two distinct seasons: wet and dry.
+1. Cool Dry Season (November to February): This is the peak tourist season. Temperatures are pleasant (ranging from 22°C to 30°C) with low humidity and almost no rain. It is the most comfortable time for temple trekking, but popular spots will be crowded.
+2. Hot Dry Season (March to May): Temperatures soar, often reaching up to 40°C. Humidity is high, making temple climbs physically demanding. Visiting early in the morning (5:00 AM to 9:00 AM) or late afternoon is highly recommended to avoid the midday heat.
+3. Rainy/Wet Season (June to October): Marked by short, heavy afternoon downpours. The landscape becomes lush, green, and incredibly picturesque. Moats around Angkor Wat fill up, creating beautiful reflections, and there are far fewer tourists.
+4. Packing Checklist: Light, breathable cotton clothing, sunblock, a wide-brimmed hat, a reusable water bottle, insect repellent (crucial for jungle temples), and a lightweight rain poncho if traveling during the monsoon.
+
+Khmer Translation / Summary:
+អាកាសធាតុ និងរដូវកាលនៅសៀមរាប៖
+ខេត្តសៀមរាបមានពីររដូវកាលគឺ រដូវប្រាំង (ចាប់ពីខែវិច្ឆិកា ដល់ឧសភា) និងរដូវវស្សា (ចាប់ពីខែមិថុនា ដល់តុលា)។ ពេលវេលាល្អបំផុតសម្រាប់ការដើរកម្សាន្តគឺចន្លោះខែវិច្ឆិកា ដល់កុម្ភៈ ដែលមានធាតុអាកាសត្រជាក់បង្គួរ។ ចំណែកឯរដូវវស្សាផ្តល់នូវទិដ្ឋភាពធម្មជាតិខៀវស្រងាត់ និងមានភ្ញៀវទេសចរតិច។
+--- INFO DOCUMENT 4 END ---

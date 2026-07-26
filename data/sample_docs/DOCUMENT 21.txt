@@ -1,0 +1,11 @@
+--- DOCUMENT 21 START ---
+ID: sr_doc_21
+Name (EN): Banteay Kdei
+Name (KM): ប្រាសាទបន្ទាយក្តី
+Category: Historical Site
+Latitude: 13.4299
+Longitude: 103.8986
+
+Description:
+Known as the 'Citadel of Monks,' this sprawling, largely unrestored monastic complex provides a quiet, maze-like exploration experience. Built in the late 12th to early 13th centuries, it features beautiful entry towers displaying the face of Lokesvara.
+--- DOCUMENT 21 END ---
