@@ -6,6 +6,10 @@ import os
 import time
 import re
 import streamlit as st
+from dotenv import load_dotenv
+
+# Load .env before the rag modules read GEMINI_API_KEY from the environment.
+load_dotenv()
 
 from rag.ingest import load_documents, build_chunk_records
 from rag.embed_store import VectorStore
